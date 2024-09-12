@@ -2,7 +2,7 @@
 - 👀 Estou interessada em programação e desenvolvimento de software
 - 🌱 Atualmente estou aprendendo a programar
 - 💞️ Estou esperando colaborar em projetos de código aberto e desafios de programação
-- 📫 CCM-Tancredo Almeida NEves
+- 📫 Como me emncontrar Nataly.Silva.Nogueira@escola.pr.gov.br
 
 
 <!---
